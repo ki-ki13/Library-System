@@ -1,0 +1,11 @@
+.sidebar{
+position: sticky !important;
+top: 0;
+align-self: flex-start;    
+}
+
+#btn-tambah{
+    width: 200px;
+    margin: 30px;
+    float: right;
+}
