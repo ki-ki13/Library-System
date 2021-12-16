@@ -14,7 +14,7 @@ include "content.php";
 include "js.php";
 
 
-?>
+?> 
 
 </html>
 

@@ -46,7 +46,7 @@
                     }
                     
                    
-                }else{
+                }else{ 
                     // ambil dari variabel GET
                     $page = $_GET['p'];
                 }

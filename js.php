@@ -14,7 +14,7 @@ $(document).ready(function() {
     $('#tabelpinjam').DataTable();
     $('#tabelriwayat').DataTable();
     $('#tabeladminhistory').DataTable();
-} );
+} ); 
 
 </script>
     
