@@ -20,7 +20,7 @@ if(isset($_POST['tambah'])){
 
     insert_data($conn,"admin",$data);
 
-    redirect('?p=tabeladmin');
+    redirect('?p=admin_read');
     
 }else{
     die('ga bisa');

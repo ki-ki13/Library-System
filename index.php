@@ -10,9 +10,7 @@ define("Tanda", true);
 include "library/connect.php";
 include "library/fungsi.php";
 include "head.php";
-// include "navbar.php";
 include "content.php";
-// include "footer.php";
 include "js.php";
 
 
